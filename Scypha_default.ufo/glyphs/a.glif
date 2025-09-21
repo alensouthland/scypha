@@ -55,6 +55,27 @@
             <string>Weight</string>
           </dict>
         </array>
+        <key>sources</key>
+        <array>
+          <dict>
+            <key>layername</key>
+            <string>Bold</string>
+            <key>location</key>
+            <dict>
+              <key>Weight</key>
+              <integer>700</integer>
+            </dict>
+            <key>name</key>
+            <string>Bold</string>
+          </dict>
+        </array>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>Regular</string>
+        <key>default^Bold</key>
+        <string>Bold</string>
       </dict>
     </dict>
   </lib>
